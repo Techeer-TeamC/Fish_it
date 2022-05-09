@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+.idea
+db/data
+
 # Log file
 *.log
 
