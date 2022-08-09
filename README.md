@@ -153,11 +153,13 @@ $ docker-compose up --build
 
 ### MySQL ERD
 
-
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/49d2d129-c074-4202-bc9f-6ed27bbda4b0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220720%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220720T144320Z&X-Amz-Expires=86400&X-Amz-Signature=7c9bed155594123a37c70736d5c10460ff2750c8b2b2d57e3e40afb125062fbd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
-
+![image](https://user-images.githubusercontent.com/57824857/183662142-d3efd7d0-fc7f-4846-bf10-567664225876.png)
 
 
+
+
+### Medium.com Docs
+👉 https://medium.com/@techeerteamc/fish-it-get-notification-when-the-product-reaches-the-price-you-want-17b9239282b7
 
 
 ## Contributors
