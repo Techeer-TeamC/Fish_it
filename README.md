@@ -159,7 +159,7 @@ $ docker-compose up --build
 
 |                 김소미                 |                  손정민                  |                    정태원                    |               오홍기                |               장현우                |
 | :------------------------------------: | :--------------------------------------: | :------------------------------------------: | :------------------------------------: | :------------------------------------: |
-| [@somii009](https://github.com/somii009) | [@jungmaan](https://github.com/jungmaan) | [@teawon](https://github.com/teawon) | [@ohhondgi](https://github.com/ohhondgi) | [@aswooo](https://github.com/aswooo) |
+| [@somii009](https://github.com/somii009) | [@jungmaan](https://github.com/jungmaan) | [@teawon](https://github.com/teawon) | [@ohhonggi](https://github.com/ohhonggi) | [@aswooo](https://github.com/aswooo) |
 |               Frontend, Backend                |               Frontend                |                 Frontend, Backend                   |              Backend, DevOps               |              Backend, DevOps               |
 
 
